@@ -1,0 +1,26 @@
+.elementor-88 .elementor-element.elementor-element-8f2625a .elementor-counter-number-wrapper{color:#145595;font-family:"ProximaNova-Bold", Sans-serif;font-size:36px;font-weight:400;}.elementor-88 .elementor-element.elementor-element-8f2625a .elementor-counter-title{color:#121212;font-family:"ProximaNova-SemiBold", Sans-serif;font-size:14px;font-weight:400;line-height:2em;}.elementor-88 .elementor-element.elementor-element-a38b81b > .elementor-element-populated{border-style:solid;border-width:0px 1px 0px 1px;border-color:#D0D0D0;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-88 .elementor-element.elementor-element-a38b81b > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-88 .elementor-element.elementor-element-b47d84d .elementor-counter-number-wrapper{color:#145595;font-family:"ProximaNova-Bold", Sans-serif;font-size:36px;font-weight:400;}.elementor-88 .elementor-element.elementor-element-b47d84d .elementor-counter-title{color:#121212;font-family:"ProximaNova-SemiBold", Sans-serif;font-size:14px;font-weight:400;line-height:2em;}.elementor-88 .elementor-element.elementor-element-6cf67fd > .elementor-element-populated{border-style:solid;border-width:0px 1px 0px 0px;border-color:#D0D0D0;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-88 .elementor-element.elementor-element-6cf67fd > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-88 .elementor-element.elementor-element-99db7f9 .elementor-counter-number-wrapper{color:#145595;font-family:"ProximaNova-Bold", Sans-serif;font-size:36px;font-weight:400;}.elementor-88 .elementor-element.elementor-element-99db7f9 .elementor-counter-title{color:#121212;font-family:"ProximaNova-SemiBold", Sans-serif;font-size:14px;font-weight:400;line-height:2em;}.elementor-88 .elementor-element.elementor-element-eaaa6b1 .elementor-counter-number-wrapper{color:#145595;font-family:"ProximaNova-Bold", Sans-serif;font-size:36px;font-weight:400;}.elementor-88 .elementor-element.elementor-element-eaaa6b1 .elementor-counter-title{color:#121212;font-family:"ProximaNova-SemiBold", Sans-serif;font-size:14px;font-weight:400;line-height:2em;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ProximaNova-Bold';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Bold.eot');
+	src: url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Bold.woff2') format('woff2'),
+		url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Bold.woff') format('woff'),
+		url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Bold.ttf') format('truetype'),
+		url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ProximaNova-SemiBold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Semibold.eot');
+	src: url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype'),
+		url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Semibold.woff2') format('woff2'),
+		url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Semibold.woff') format('woff'),
+		url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Semibold.ttf') format('truetype'),
+		url('https://akshatshaligram.com/yashaswi-group/wp-content/uploads/2022/07/ProximaNova-Semibold.svg#ProximaNova-SemiBold') format('svg');
+}
+/* End Custom Fonts CSS */
